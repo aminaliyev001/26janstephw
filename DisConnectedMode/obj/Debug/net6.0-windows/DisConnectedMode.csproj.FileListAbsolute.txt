@@ -1,0 +1,166 @@
+C:\Users\atamoghlanov_j\Desktop\DisConnectedMode\DisConnectedMode\bin\Debug\net6.0-windows\DisConnectedMode.exe
+C:\Users\atamoghlanov_j\Desktop\DisConnectedMode\DisConnectedMode\bin\Debug\net6.0-windows\DisConnectedMode.deps.json
+C:\Users\atamoghlanov_j\Desktop\DisConnectedMode\DisConnectedMode\bin\Debug\net6.0-windows\DisConnectedMode.runtimeconfig.json
+C:\Users\atamoghlanov_j\Desktop\DisConnectedMode\DisConnectedMode\bin\Debug\net6.0-windows\DisConnectedMode.dll
+C:\Users\atamoghlanov_j\Desktop\DisConnectedMode\DisConnectedMode\bin\Debug\net6.0-windows\DisConnectedMode.pdb
+C:\Users\atamoghlanov_j\Desktop\DisConnectedMode\DisConnectedMode\obj\Debug\net6.0-windows\DisConnectedMode.csproj.AssemblyReference.cache
+C:\Users\atamoghlanov_j\Desktop\DisConnectedMode\DisConnectedMode\obj\Debug\net6.0-windows\DisConnectedMode.Form1.resources
+C:\Users\atamoghlanov_j\Desktop\DisConnectedMode\DisConnectedMode\obj\Debug\net6.0-windows\DisConnectedMode.csproj.GenerateResource.cache
+C:\Users\atamoghlanov_j\Desktop\DisConnectedMode\DisConnectedMode\obj\Debug\net6.0-windows\DisConnectedMode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atamoghlanov_j\Desktop\DisConnectedMode\DisConnectedMode\obj\Debug\net6.0-windows\DisConnectedMode.AssemblyInfoInputs.cache
+C:\Users\atamoghlanov_j\Desktop\DisConnectedMode\DisConnectedMode\obj\Debug\net6.0-windows\DisConnectedMode.AssemblyInfo.cs
+C:\Users\atamoghlanov_j\Desktop\DisConnectedMode\DisConnectedMode\obj\Debug\net6.0-windows\DisConnectedMode.csproj.CoreCompileInputs.cache
+C:\Users\atamoghlanov_j\Desktop\DisConnectedMode\DisConnectedMode\obj\Debug\net6.0-windows\DisConnectedMode.dll
+C:\Users\atamoghlanov_j\Desktop\DisConnectedMode\DisConnectedMode\obj\Debug\net6.0-windows\refint\DisConnectedMode.dll
+C:\Users\atamoghlanov_j\Desktop\DisConnectedMode\DisConnectedMode\obj\Debug\net6.0-windows\DisConnectedMode.pdb
+C:\Users\atamoghlanov_j\Desktop\DisConnectedMode\DisConnectedMode\obj\Debug\net6.0-windows\DisConnectedMode.genruntimeconfig.cache
+C:\Users\atamoghlanov_j\Desktop\DisConnectedMode\DisConnectedMode\obj\Debug\net6.0-windows\ref\DisConnectedMode.dll
+C:\Users\atamoghlanov_j\Desktop\DisConnectedMode\DisConnectedMode\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\atamoghlanov_j\Desktop\DisConnectedMode\DisConnectedMode\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\atamoghlanov_j\Desktop\DisConnectedMode\DisConnectedMode\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\atamoghlanov_j\Desktop\DisConnectedMode\DisConnectedMode\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\atamoghlanov_j\Desktop\DisConnectedMode\DisConnectedMode\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\atamoghlanov_j\Desktop\DisConnectedMode\DisConnectedMode\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\atamoghlanov_j\Desktop\DisConnectedMode\DisConnectedMode\obj\Debug\net6.0-windows\DisConnectedMode.csproj.CopyComplete
+C:\Users\atamoghlanov_j\Downloads\Lesson 2 _ Disconnected Mode\DersCodes\DisConnectedMode\bin\Debug\net6.0-windows\DisConnectedMode.exe
+C:\Users\atamoghlanov_j\Downloads\Lesson 2 _ Disconnected Mode\DersCodes\DisConnectedMode\bin\Debug\net6.0-windows\DisConnectedMode.deps.json
+C:\Users\atamoghlanov_j\Downloads\Lesson 2 _ Disconnected Mode\DersCodes\DisConnectedMode\bin\Debug\net6.0-windows\DisConnectedMode.runtimeconfig.json
+C:\Users\atamoghlanov_j\Downloads\Lesson 2 _ Disconnected Mode\DersCodes\DisConnectedMode\bin\Debug\net6.0-windows\DisConnectedMode.dll
+C:\Users\atamoghlanov_j\Downloads\Lesson 2 _ Disconnected Mode\DersCodes\DisConnectedMode\bin\Debug\net6.0-windows\DisConnectedMode.pdb
+C:\Users\atamoghlanov_j\Downloads\Lesson 2 _ Disconnected Mode\DersCodes\DisConnectedMode\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\atamoghlanov_j\Downloads\Lesson 2 _ Disconnected Mode\DersCodes\DisConnectedMode\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\atamoghlanov_j\Downloads\Lesson 2 _ Disconnected Mode\DersCodes\DisConnectedMode\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\atamoghlanov_j\Downloads\Lesson 2 _ Disconnected Mode\DersCodes\DisConnectedMode\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\atamoghlanov_j\Downloads\Lesson 2 _ Disconnected Mode\DersCodes\DisConnectedMode\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\atamoghlanov_j\Downloads\Lesson 2 _ Disconnected Mode\DersCodes\DisConnectedMode\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\atamoghlanov_j\Downloads\Lesson 2 _ Disconnected Mode\DersCodes\DisConnectedMode\obj\Debug\net6.0-windows\DisConnectedMode.csproj.AssemblyReference.cache
+C:\Users\atamoghlanov_j\Downloads\Lesson 2 _ Disconnected Mode\DersCodes\DisConnectedMode\obj\Debug\net6.0-windows\DisConnectedMode.Form1.resources
+C:\Users\atamoghlanov_j\Downloads\Lesson 2 _ Disconnected Mode\DersCodes\DisConnectedMode\obj\Debug\net6.0-windows\DisConnectedMode.csproj.GenerateResource.cache
+C:\Users\atamoghlanov_j\Downloads\Lesson 2 _ Disconnected Mode\DersCodes\DisConnectedMode\obj\Debug\net6.0-windows\DisConnectedMode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atamoghlanov_j\Downloads\Lesson 2 _ Disconnected Mode\DersCodes\DisConnectedMode\obj\Debug\net6.0-windows\DisConnectedMode.AssemblyInfoInputs.cache
+C:\Users\atamoghlanov_j\Downloads\Lesson 2 _ Disconnected Mode\DersCodes\DisConnectedMode\obj\Debug\net6.0-windows\DisConnectedMode.AssemblyInfo.cs
+C:\Users\atamoghlanov_j\Downloads\Lesson 2 _ Disconnected Mode\DersCodes\DisConnectedMode\obj\Debug\net6.0-windows\DisConnectedMode.csproj.CoreCompileInputs.cache
+C:\Users\atamoghlanov_j\Downloads\Lesson 2 _ Disconnected Mode\DersCodes\DisConnectedMode\obj\Debug\net6.0-windows\DisConnectedMode.csproj.CopyComplete
+C:\Users\atamoghlanov_j\Downloads\Lesson 2 _ Disconnected Mode\DersCodes\DisConnectedMode\obj\Debug\net6.0-windows\DisConnectedMode.dll
+C:\Users\atamoghlanov_j\Downloads\Lesson 2 _ Disconnected Mode\DersCodes\DisConnectedMode\obj\Debug\net6.0-windows\refint\DisConnectedMode.dll
+C:\Users\atamoghlanov_j\Downloads\Lesson 2 _ Disconnected Mode\DersCodes\DisConnectedMode\obj\Debug\net6.0-windows\DisConnectedMode.pdb
+C:\Users\atamoghlanov_j\Downloads\Lesson 2 _ Disconnected Mode\DersCodes\DisConnectedMode\obj\Debug\net6.0-windows\DisConnectedMode.genruntimeconfig.cache
+C:\Users\atamoghlanov_j\Downloads\Lesson 2 _ Disconnected Mode\DersCodes\DisConnectedMode\obj\Debug\net6.0-windows\ref\DisConnectedMode.dll
+C:\Users\atamoghlanov_j\Desktop\DersCodes\DersCodes\DisConnectedMode\bin\Debug\net6.0-windows\DisConnectedMode.exe
+C:\Users\atamoghlanov_j\Desktop\DersCodes\DersCodes\DisConnectedMode\bin\Debug\net6.0-windows\DisConnectedMode.deps.json
+C:\Users\atamoghlanov_j\Desktop\DersCodes\DersCodes\DisConnectedMode\bin\Debug\net6.0-windows\DisConnectedMode.runtimeconfig.json
+C:\Users\atamoghlanov_j\Desktop\DersCodes\DersCodes\DisConnectedMode\bin\Debug\net6.0-windows\DisConnectedMode.dll
+C:\Users\atamoghlanov_j\Desktop\DersCodes\DersCodes\DisConnectedMode\bin\Debug\net6.0-windows\DisConnectedMode.pdb
+C:\Users\atamoghlanov_j\Desktop\DersCodes\DersCodes\DisConnectedMode\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\atamoghlanov_j\Desktop\DersCodes\DersCodes\DisConnectedMode\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\atamoghlanov_j\Desktop\DersCodes\DersCodes\DisConnectedMode\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\atamoghlanov_j\Desktop\DersCodes\DersCodes\DisConnectedMode\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\atamoghlanov_j\Desktop\DersCodes\DersCodes\DisConnectedMode\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\atamoghlanov_j\Desktop\DersCodes\DersCodes\DisConnectedMode\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\atamoghlanov_j\Desktop\DersCodes\DersCodes\DisConnectedMode\obj\Debug\net6.0-windows\DisConnectedMode.csproj.AssemblyReference.cache
+C:\Users\atamoghlanov_j\Desktop\DersCodes\DersCodes\DisConnectedMode\obj\Debug\net6.0-windows\DisConnectedMode.Form1.resources
+C:\Users\atamoghlanov_j\Desktop\DersCodes\DersCodes\DisConnectedMode\obj\Debug\net6.0-windows\DisConnectedMode.csproj.GenerateResource.cache
+C:\Users\atamoghlanov_j\Desktop\DersCodes\DersCodes\DisConnectedMode\obj\Debug\net6.0-windows\DisConnectedMode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atamoghlanov_j\Desktop\DersCodes\DersCodes\DisConnectedMode\obj\Debug\net6.0-windows\DisConnectedMode.AssemblyInfoInputs.cache
+C:\Users\atamoghlanov_j\Desktop\DersCodes\DersCodes\DisConnectedMode\obj\Debug\net6.0-windows\DisConnectedMode.AssemblyInfo.cs
+C:\Users\atamoghlanov_j\Desktop\DersCodes\DersCodes\DisConnectedMode\obj\Debug\net6.0-windows\DisConnectedMode.csproj.CoreCompileInputs.cache
+C:\Users\atamoghlanov_j\Desktop\DersCodes\DersCodes\DisConnectedMode\obj\Debug\net6.0-windows\DisConnectedMode.csproj.CopyComplete
+C:\Users\atamoghlanov_j\Desktop\DersCodes\DersCodes\DisConnectedMode\obj\Debug\net6.0-windows\DisConnectedMode.dll
+C:\Users\atamoghlanov_j\Desktop\DersCodes\DersCodes\DisConnectedMode\obj\Debug\net6.0-windows\refint\DisConnectedMode.dll
+C:\Users\atamoghlanov_j\Desktop\DersCodes\DersCodes\DisConnectedMode\obj\Debug\net6.0-windows\DisConnectedMode.pdb
+C:\Users\atamoghlanov_j\Desktop\DersCodes\DersCodes\DisConnectedMode\obj\Debug\net6.0-windows\DisConnectedMode.genruntimeconfig.cache
+C:\Users\atamoghlanov_j\Desktop\DersCodes\DersCodes\DisConnectedMode\obj\Debug\net6.0-windows\ref\DisConnectedMode.dll
+C:\Users\atamoghlanov_j\Desktop\DersCodes\DersCodes\DisConnectedMode\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\atamoghlanov_j\Desktop\DersCodes\DersCodes\DisConnectedMode\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\atamoghlanov_j\Desktop\DersCodes\DersCodes\DisConnectedMode\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\atamoghlanov_j\Desktop\DersCodes\DersCodes\DisConnectedMode\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\atamoghlanov_j\Desktop\DersCodes\DersCodes\DisConnectedMode\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\atamoghlanov_j\Desktop\DersCodes\DersCodes\DisConnectedMode\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\atamoghlanov_j\Desktop\DersCodes\DersCodes\DisConnectedMode\bin\Debug\net6.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\atamoghlanov_j\Desktop\DersCodes\DersCodes\DisConnectedMode\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\atamoghlanov_j\Desktop\DersCodes\DersCodes\DisConnectedMode\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\atamoghlanov_j\Desktop\DersCodes\DersCodes\DisConnectedMode\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\atamoghlanov_j\Desktop\DersCodes\DersCodes\DisConnectedMode\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\atamoghlanov_j\Desktop\DersCodes\DersCodes\DisConnectedMode\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\atamoghlanov_j\Desktop\DersCodes\DersCodes\DisConnectedMode\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\atamoghlanov_j\Desktop\DersCodes\DersCodes\DisConnectedMode\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\atamoghlanov_j\Desktop\DersCodes\DersCodes\DisConnectedMode\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\atamoghlanov_j\Desktop\DersCodes\DersCodes\DisConnectedMode\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\atamoghlanov_j\Desktop\DersCodes\DersCodes\DisConnectedMode\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\atamoghlanov_j\Desktop\DersCodes\DersCodes\DisConnectedMode\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\atamoghlanov_j\Desktop\DersCodes\DersCodes\DisConnectedMode\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\atamoghlanov_j\Desktop\DersCodes\DersCodes\DisConnectedMode\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\atamoghlanov_j\Desktop\DersCodes\DersCodes\DisConnectedMode\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\atamoghlanov_j\Desktop\DersCodes\DersCodes\DisConnectedMode\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\atamoghlanov_j\Desktop\DersCodes\DersCodes\DisConnectedMode\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\atamoghlanov_j\Desktop\DersCodes\DersCodes\DisConnectedMode\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\atamoghlanov_j\Desktop\DersCodes\DersCodes\DisConnectedMode\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\atamoghlanov_j\Desktop\DersCodes\DersCodes\DisConnectedMode\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\atamoghlanov_j\Desktop\DersCodes\DersCodes\DisConnectedMode\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\atamoghlanov_j\Desktop\DersCodes\DersCodes\DisConnectedMode\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\atamoghlanov_j\Desktop\DersCodes\DersCodes\DisConnectedMode\bin\Debug\net6.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\atamoghlanov_j\Desktop\DersCodes\DersCodes\DisConnectedMode\bin\Debug\net6.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\atamoghlanov_j\Desktop\DersCodes\DersCodes\DisConnectedMode\bin\Debug\net6.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\atamoghlanov_j\Desktop\DersCodes\DersCodes\DisConnectedMode\bin\Debug\net6.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\atamoghlanov_j\Desktop\DersCodes\DersCodes\DisConnectedMode\bin\Debug\net6.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\atamoghlanov_j\Desktop\DersCodes\DersCodes\DisConnectedMode\bin\Debug\net6.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\atamoghlanov_j\Desktop\DersCodes\DersCodes\DisConnectedMode\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Aliye_fr86\Desktop\DisConnectedMode\bin\Debug\net6.0-windows\DisConnectedMode.exe
+C:\Users\Aliye_fr86\Desktop\DisConnectedMode\bin\Debug\net6.0-windows\DisConnectedMode.deps.json
+C:\Users\Aliye_fr86\Desktop\DisConnectedMode\bin\Debug\net6.0-windows\DisConnectedMode.runtimeconfig.json
+C:\Users\Aliye_fr86\Desktop\DisConnectedMode\bin\Debug\net6.0-windows\DisConnectedMode.dll
+C:\Users\Aliye_fr86\Desktop\DisConnectedMode\bin\Debug\net6.0-windows\DisConnectedMode.pdb
+C:\Users\Aliye_fr86\Desktop\DisConnectedMode\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\Aliye_fr86\Desktop\DisConnectedMode\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\Aliye_fr86\Desktop\DisConnectedMode\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Aliye_fr86\Desktop\DisConnectedMode\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Aliye_fr86\Desktop\DisConnectedMode\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Aliye_fr86\Desktop\DisConnectedMode\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Aliye_fr86\Desktop\DisConnectedMode\bin\Debug\net6.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\Aliye_fr86\Desktop\DisConnectedMode\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Aliye_fr86\Desktop\DisConnectedMode\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Aliye_fr86\Desktop\DisConnectedMode\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Aliye_fr86\Desktop\DisConnectedMode\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Aliye_fr86\Desktop\DisConnectedMode\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Aliye_fr86\Desktop\DisConnectedMode\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Aliye_fr86\Desktop\DisConnectedMode\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Aliye_fr86\Desktop\DisConnectedMode\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\Aliye_fr86\Desktop\DisConnectedMode\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\Aliye_fr86\Desktop\DisConnectedMode\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\Aliye_fr86\Desktop\DisConnectedMode\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\Aliye_fr86\Desktop\DisConnectedMode\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Aliye_fr86\Desktop\DisConnectedMode\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Aliye_fr86\Desktop\DisConnectedMode\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Aliye_fr86\Desktop\DisConnectedMode\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\Aliye_fr86\Desktop\DisConnectedMode\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\Aliye_fr86\Desktop\DisConnectedMode\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Aliye_fr86\Desktop\DisConnectedMode\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Aliye_fr86\Desktop\DisConnectedMode\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Aliye_fr86\Desktop\DisConnectedMode\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Aliye_fr86\Desktop\DisConnectedMode\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Aliye_fr86\Desktop\DisConnectedMode\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Aliye_fr86\Desktop\DisConnectedMode\bin\Debug\net6.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\Aliye_fr86\Desktop\DisConnectedMode\bin\Debug\net6.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\Aliye_fr86\Desktop\DisConnectedMode\bin\Debug\net6.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\Aliye_fr86\Desktop\DisConnectedMode\bin\Debug\net6.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\Aliye_fr86\Desktop\DisConnectedMode\bin\Debug\net6.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\Aliye_fr86\Desktop\DisConnectedMode\bin\Debug\net6.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\Aliye_fr86\Desktop\DisConnectedMode\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Aliye_fr86\Desktop\DisConnectedMode\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Aliye_fr86\Desktop\DisConnectedMode\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Aliye_fr86\Desktop\DisConnectedMode\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Aliye_fr86\Desktop\DisConnectedMode\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Aliye_fr86\Desktop\DisConnectedMode\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Aliye_fr86\Desktop\DisConnectedMode\obj\Debug\net6.0-windows\DisConnectedMode.csproj.AssemblyReference.cache
+C:\Users\Aliye_fr86\Desktop\DisConnectedMode\obj\Debug\net6.0-windows\DisConnectedMode.Form1.resources
+C:\Users\Aliye_fr86\Desktop\DisConnectedMode\obj\Debug\net6.0-windows\DisConnectedMode.csproj.GenerateResource.cache
+C:\Users\Aliye_fr86\Desktop\DisConnectedMode\obj\Debug\net6.0-windows\DisConnectedMode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aliye_fr86\Desktop\DisConnectedMode\obj\Debug\net6.0-windows\DisConnectedMode.AssemblyInfoInputs.cache
+C:\Users\Aliye_fr86\Desktop\DisConnectedMode\obj\Debug\net6.0-windows\DisConnectedMode.AssemblyInfo.cs
+C:\Users\Aliye_fr86\Desktop\DisConnectedMode\obj\Debug\net6.0-windows\DisConnectedMode.csproj.CoreCompileInputs.cache
+C:\Users\Aliye_fr86\Desktop\DisConnectedMode\obj\Debug\net6.0-windows\DisConnectedMode.csproj.CopyComplete
+C:\Users\Aliye_fr86\Desktop\DisConnectedMode\obj\Debug\net6.0-windows\DisConnectedMode.dll
+C:\Users\Aliye_fr86\Desktop\DisConnectedMode\obj\Debug\net6.0-windows\refint\DisConnectedMode.dll
+C:\Users\Aliye_fr86\Desktop\DisConnectedMode\obj\Debug\net6.0-windows\DisConnectedMode.pdb
+C:\Users\Aliye_fr86\Desktop\DisConnectedMode\obj\Debug\net6.0-windows\DisConnectedMode.genruntimeconfig.cache
+C:\Users\Aliye_fr86\Desktop\DisConnectedMode\obj\Debug\net6.0-windows\ref\DisConnectedMode.dll
